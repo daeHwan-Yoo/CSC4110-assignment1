@@ -1,4 +1,4 @@
-# CSC4110-assignment1
+# Github and git
 Daehwan Yoo
 
 gv9851
